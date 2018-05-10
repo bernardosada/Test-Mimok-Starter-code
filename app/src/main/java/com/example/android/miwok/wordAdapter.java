@@ -42,6 +42,8 @@ public class wordAdapter extends ArrayAdapter<Word> {
         return listItemView;
     }
 
+    // This is my test code
+
 
 }
 
