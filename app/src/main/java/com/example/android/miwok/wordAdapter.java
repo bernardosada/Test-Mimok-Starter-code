@@ -28,6 +28,10 @@ public class wordAdapter extends ArrayAdapter<Word> {
         if (listItemView == null){
             listItemView = LayoutInflater.from(getContext()).inflate(
                     R.layout.list_item,
+
+
+                    //Test Commit
+
                     parent,
                     false
             );
